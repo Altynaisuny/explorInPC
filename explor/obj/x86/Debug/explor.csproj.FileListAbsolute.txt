@@ -1,0 +1,8 @@
+D:\vsProject\explor\explor\bin\Debug\explor.exe
+D:\vsProject\explor\explor\bin\Debug\explor.pdb
+D:\vsProject\explor\explor\obj\x86\Debug\explor.Form1.resources
+D:\vsProject\explor\explor\obj\x86\Debug\explor.Properties.Resources.resources
+D:\vsProject\explor\explor\obj\x86\Debug\explor.csproj.GenerateResource.Cache
+D:\vsProject\explor\explor\obj\x86\Debug\explor.exe
+D:\vsProject\explor\explor\obj\x86\Debug\explor.pdb
+D:\vsProject\explor\explor\obj\x86\Debug\explor.csprojResolveAssemblyReference.cache
